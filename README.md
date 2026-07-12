@@ -9,6 +9,8 @@
   <a href="namqd09kdhy@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Line Divider" />
+
 ## About Me 
 
 I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
@@ -17,6 +19,8 @@ My focus is on building dashboards that get used, automating repetitive tasks to
 
 
 ### [Check Out My Full Portfolio Website](https://dartanyan910.github.io/)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Line Divider" />
       
 ## Experience
 
@@ -40,6 +44,7 @@ My focus is on building dashboards that get used, automating repetitive tasks to
   </table>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Line Divider" />
 
 ## Technical Skillset
 
@@ -87,6 +92,7 @@ My focus is on building dashboards that get used, automating repetitive tasks to
   </table>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Line Divider" />
 
 ## Activities & Stats
 
@@ -103,4 +109,10 @@ My focus is on building dashboards that get used, automating repetitive tasks to
       </td>
     </tr>
   </table>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Line Divider" />
+
+<div align="center">
+  <img src="asset/thank-you-banner.png" width="100%" alt="Portfolio Footer" />
 </div>

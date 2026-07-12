@@ -37,12 +37,12 @@ My focus is on building dashboards that get used, automating repetitive tasks to
         <sub>Apr 2024 - Aug 2024</sub><br /><br />
         <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://datx.vn&size=32" width="24" height="24" /><br /><br />
         <a href="https://datx.vn/"><b>DATX Technology</b></a><br />
-        <sub>Sales Consultant</sub>
+        <sub>Consultant Intern</sub>
       </td>
       <td align="center" valign="middle" width="1%">➔</td>
       <td align="center" valign="top" width="13%">
         <sub>Dec 2025 - May 2026</sub><br /><br />
-        <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://fptsoftware.com&size=32" width="24" height="24" /><br /><br />
+        <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://fptsoftware.com&size=24" width="24" height="24" /><br /><br />
         <a href="https://fptsoftware.com/"><b>FPT Software</b></a><br />
         <sub>Data Analyst Intern</sub>
       </td>
@@ -92,6 +92,24 @@ My focus is on building dashboards that get used, automating repetitive tasks to
         <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white" alt="DBeaver"/>
         <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel"/>
         <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio&logoColor=white" alt="RStudio"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+## Activities & Stats
+
+<div align="center">
+  <table border="0" style="border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+      <td width="58%" align="center" style="border: none; padding: 10px;" valign="middle">
+        <img src="https://raw.githubusercontent.com/dartanyan910/dartanyan910/output/github-isometric-calendar.svg" width="560px" alt="Contribution Cityscape" />
+      </td>
+      <td width="42%" align="center" style="border: none; padding: 10px;" valign="middle">
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=dartanyan910&theme=tokyonight&show_icons=true&include_all_commits=true&bg_color=0b0f19&title_color=06B6D4&text_color=e5e7eb&icon_color=8B5CF6&border_color=1f2937&hide_border=false" width="380" alt="GitHub Stats" />
+        <br /><br />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dartanyan910&layout=compact&theme=tokyonight&bg_color=0b0f19&title_color=06B6D4&text_color=e5e7eb&icon_color=8B5CF6&border_color=1f2937&hide_border=false" width="380" alt="Top Languages" />
       </td>
     </tr>
   </table>

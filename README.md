@@ -1,16 +1,98 @@
-## Hi there 👋
+## Hi there, I'm Quach Dinh Nam 👋
 
-<!--
-**dartanyan910/dartanyan910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="www.linkedin.com/in/namqd09"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="namqd09kdhy@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me 
+
+I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+
+My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+
+
+### [Check Out My Full Portfolio Website](https://dartanyan910.github.io/)
+      
+## What I'm Currently Working On 
+
+- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
+- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
+
+## Currently Learning 
+
+- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
+- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+
+## Experience
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="center" valign="top" width="13%">
+        <sub>Apr 2024 - Aug 2024</sub><br /><br />
+        <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://datx.vn&size=32" width="24" height="24" /><br /><br />
+        <a href="https://datx.vn/"><b>DATX Technology</b></a><br />
+        <sub>Sales Consultant</sub>
+      </td>
+      <td align="center" valign="middle" width="1%">➔</td>
+      <td align="center" valign="top" width="13%">
+        <sub>Dec 2025 - May 2026</sub><br /><br />
+        <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://fptsoftware.com&size=32" width="24" height="24" /><br /><br />
+        <a href="https://fptsoftware.com/"><b>FPT Software</b></a><br />
+        <sub>Data Analyst Intern</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+## Technical Skillset
+
+<div align="left">
+  <table width="100%">
+    <tr>
+      <td width="35%"><b>📥 Programming</b></td>
+      <td width="65%">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+        <img src="https://img.shields.io/badge/R-75AADB?style=flat-square&logo=r&logoColor=white" alt="R"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>🛢️ Store &amp; Manage</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/BigQuery-6699FF?style=flat-square&logo=google-bigquery&logoColor=white" alt="BigQuery"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>🔄 Transform</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>📊 BI &amp; Analytics</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+        <img src="https://img.shields.io/badge/Apache_Superset-0073B7?style=flat-square&logo=apache-superset&logoColor=white" alt="Apache Superset"/>
+        <img src="https://img.shields.io/badge/Tableau-FFAB00?style=flat-square&logo=smartlook&logoColor=white" alt="Tableau"/>
+     </td>
+    </tr>
+    <tr>
+      <td><b>💻 IDE &amp; Data Tools</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+        <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white" alt="DBeaver"/>
+        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+        <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio&logoColor=white" alt="RStudio"/>
+      </td>
+    </tr>
+  </table>
+</div>
